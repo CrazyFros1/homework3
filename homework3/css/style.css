@@ -1,0 +1,122 @@
+body {
+    background: #f9f9f9;
+}
+.site {
+    background-color: white;
+    margin: 0 auto;
+    width: 1060px;
+	height: 950px;
+    
+}
+.logo {
+    position: relative;
+    bottom: -39px;
+    left: 46px;
+}
+.menu {
+width: 900px;
+}
+ .menu {
+     width: 966px;
+     height: 40px;
+     display: block;
+     position: relative;
+     background-image: linear-gradient(to top, #444343 0%, #5e5e5e 100%);
+     bottom: -72px;
+     margin: 0 auto;
+     text-align: center;
+}
+.menu1, .menu2, .menu3, .menu4 {
+    display: inline-block;
+    line-height: 40px;
+    text-shadow: 0.5px 0.9px 1px rgba(0, 0, 0, 0.5);
+    float: left;
+    width: 120px;
+
+}
+a {
+    text-decoration: none; }
+.g {
+    font-size: 17px;
+    color: white;
+}
+.menu1:hover, .menu2:hover, .menu3:hover, .menu4:hover {
+    background: #343434;
+    border-left: 1px solid #838383;
+    border-right: 1px solid #838383;
+    
+}
+aside {
+    padding-left: 46px;
+    width: 240px;
+    position: relative;
+    height: 240px;
+    display: block;
+    left: 50px;
+    top: 116px;
+
+}
+.right1,.right2,.right3,.right4,.right5,.right6 {
+    width: 240px;
+	height: 39px;
+	display: block;
+	line-height: 39px;
+	text-align: center;
+	border: 1px solid #c8c8c8;
+    color: #656363;
+    left: 4px;
+}
+.menuright{  
+font-size: 17px;
+line-height: 35px;
+}
+ .menuright:hover {
+    background-color: #f9f9f9;
+    padding-left: 20px; 
+}
+section {
+    position: relative;
+    width: 677px;
+	left: 335px;
+	top: -124px;
+}
+.description {
+    position: relative;
+    top: 37px;
+    display:block;
+    font-size: 17px;
+    line-height: 1.7;
+    padding-left: 17px;
+    width: 625px;
+    height: 144px;
+}
+footer {
+    display: block;
+    height: 40px;
+    background-image: linear-gradient(to top, #e1e1e1 0%, #e1e1e1 100%);
+    background-color: white;
+    padding-right: 50px;
+    margin: 0 auto;
+}
+.footerm1, .footerm2, .footerm3, .footerm4, .footerm5 {
+ float: left;
+ width: 130px;
+ height: 40px;
+ display: inline-block;
+ text-align: center;
+ line-height: 40px;
+
+     }
+.fotmenu {
+  color: #2c2c2c;
+}
+.fotmenu:hover {
+	border-bottom: 1px solid #2C2C2C;
+}
+.footerm5 {
+	padding-left: 235px;
+    width: 299px;
+}
+.right1:hover,.right2:hover,.right3:hover,.right4:hover,.right5:hover,.right6:hover {
+padding-left: 20px;
+}
